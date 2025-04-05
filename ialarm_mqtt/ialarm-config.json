@@ -1,0 +1,16 @@
+{
+  "ialarm": {
+    "host": "192.168.0.157",
+    "port": 80,
+    "username": "admin",
+    "password": "admin",
+    "pollInterval": 10
+  },
+  "mqtt": {
+    "host": "core-mosquitto",
+    "port": 1883,
+    "username": "Tsiro",
+    "password": "PavlosAlex!$17",
+    "topicPrefix": "ialarm"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "iAlarm MQTT",
+  "version": "1.0.0",
+  "slug": "ialarm_mqtt",
+  "description": "Bridge μεταξύ iAlarm panel και MQTT για Home Assistant",
+  "arch": ["armv7", "aarch64", "amd64"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "image": null
+}
